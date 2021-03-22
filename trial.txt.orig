@@ -1,0 +1,6 @@
+This is trial file.
+<<<<<<< HEAD
+using master.
+=======
+using reports.
+>>>>>>> reports
