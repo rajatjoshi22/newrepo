@@ -1,2 +1,2 @@
 This is sample file.
-using reports.
+using  master.
