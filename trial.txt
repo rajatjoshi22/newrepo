@@ -1,5 +1,2 @@
 This is trial file.
-<<<<<<< HEAD
-=======
-using prod.
->>>>>>> prod
+
